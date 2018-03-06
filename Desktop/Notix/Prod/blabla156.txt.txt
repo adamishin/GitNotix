@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-update table xy
-
-add table 
-=======
-update 
->>>>>>> Production
+update table
+bla bla
