@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 update table
-bla bla
-=======
-update
 
 
 Select * from
->>>>>>> Production
+
