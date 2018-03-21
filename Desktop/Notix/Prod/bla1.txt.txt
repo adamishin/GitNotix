@@ -1,2 +1,0 @@
-create table xy
-bla bla
