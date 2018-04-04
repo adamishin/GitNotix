@@ -1,12 +1,9 @@
 <<<<<<< HEAD
 update table
+bla bla
+=======
+update
 
 
 Select * from
-
-=======
-update 123
-
-
-fhdf
 >>>>>>> Production
